@@ -30,9 +30,9 @@ This project features a robust sales forecasting dashboard built using **Streaml
    ```bash
    git clone https://github.com/your-username/sales-forecast-arima.git
    cd sales-forecast-arima
-2. install requirements
+2. install requirements : in cmd :
    pip install -r requirements.txt
 
-3. Launch the app
+3. Launch the app : in cmd : 
    streamlit run sales_forecast_app.py
 
